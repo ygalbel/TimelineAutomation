@@ -1,0 +1,14 @@
+{
+	"url" : "http://localhost/OnlinePayment/",
+	"timeoutMilli" : 5000,
+	"email" : "a@aa.com",
+	"receiverEmail" : "puyol@mailinator.com",
+	"LoadTo_TransferReasonType" : "Expenses",
+	"LoadTo_TransferReasonDescription" : "description",
+	"LoadTo_ServicesGoodsStatus" : "Service",
+	"nameOnCard" : "name",
+	"cardNumber" : "4444333322221111",
+	"cvv" : 456,
+	"expMonth" : 12,
+	"expYear" : 2019
+}
